@@ -10,7 +10,8 @@
 int main(int argc, char **argv){
 
     printf ("Hello World, I am Oleg Kojenets!\n");
-    printf("Computer Science\n");
-
+    printf("Computer Sciene\n");
+    printf("Jackson Winkler\n");
+    printf("Undeclared\n");
     return 0;
 }
